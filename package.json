@@ -1,0 +1,29 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "reversing normal words or palindrome",
+  "main": "..app/library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/reverse-string.git"
+  },
+  "keywords": [
+    "reverse",
+    "string"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/reverse-string/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/reverse-string#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
